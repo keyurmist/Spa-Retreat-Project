@@ -47,7 +47,7 @@ I will be able to to add items to my cart
 ## Installation
 
 ```
-git clone git@github.com:AliceBryer/Spa-Retreat-Project.git
+git clone git@github.com:keyurmist/Spa-Retreat-Project.git
 cd Spa-Retreat-Project
 npm install
 
